@@ -1,1 +1,7 @@
-{"scriptinfo":[{"script":"print('Works!')"}]}
+{
+    "scriptinfo": [
+        {
+            "script": "print('Works!')"
+        }
+    ]
+}
